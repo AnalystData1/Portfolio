@@ -23,4 +23,4 @@
 - По итогам исследования подготовить презентацию и дашборд.
 
 ## Используемые библиотеки
-Python, Pandas, matplotlib, seaborn, scipy
+Python, Pandas, matplotlib, seaborn, scipy, plotly, numphy
